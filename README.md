@@ -2,6 +2,31 @@
 
 Deploy link:https://ground-booking-app.vercel.app/
 
+steps to run 
+1)open terminal and go to location of this folder
+2)to run backend code
+# Navigate to the backend directory
+cd backend
+
+# Install dependencies (if you haven't already)
+npm install
+
+# Run the backend server (replace "your-start-script" with your start script if it's different)
+npm start
+
+3)to run frontend code(can do directlyp by deploy link)
+# Navigate to the frontend directory (adjust if your frontend is in a different location)
+cd client  # or cd your-frontend-directory
+
+# Install dependencies (if you haven't already)
+npm install
+
+# Run the frontend development server
+npm start
+
+
+
+
 Book-A-Ground is a web application built using the MERN stack (MongoDB, Express, React, Node.js) with Tailwind CSS for a sleek user interface. Book-A-Ground includes an admin panel to manage ground content seamlessly.
 
 ![Screenshot (79)](https://github.com/krisgoswami/ground-booking-app/assets/91143716/7bcd5596-b3a2-48b2-a2a3-c635258e3362)
